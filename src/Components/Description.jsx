@@ -8,12 +8,12 @@ const Description = () => {
     return (
         <div className='mt-28 flex items-center justify-center px-6'>
             <div className="w-full max-w-[1500px] flex flex-col space-y-5">
-                <div className="flex flex-col lg:flex-row w-full xl:justify-between space-y-5 xl:space-y-0 items-center">
+                <div className="flex flex-col lg:flex-row w-full xl:justify-between space-y-5 xl:space-y-0 items-center mb-8">
                     <div className="text-5xl font-semibold max-w-[500px] text-center xl:text-left">
                         Your Dream Home,
                         Our Expertise
                     </div>
-                    <div className="max-w-[500px] text-lg text-gray-500">
+                    <div className="max-w-[500px] text-lg text-black/60">
                         At Urbanouse, we are committed to helping individuals and families find their perfect homes and smart investment properties.
                         Our approach blends personalized service, expert insights, and a dedication to excellence, ensuring your real estate journey is seamless,
                         rewarding, and tailored to your unique needs.

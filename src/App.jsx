@@ -4,6 +4,9 @@ import Hero from './Components/Hero'
 import Description from './Components/Description'
 import DiscoverSection from './Components/DiscoverSection'
 import Testimonial from './Components/Testimonial'
+import QuestionsSection from './Components/Questions'
+import FooterSection from './Components/Footer'
+
 function App() {
 
   return (
@@ -13,7 +16,8 @@ function App() {
         <Description></Description>
         <DiscoverSection></DiscoverSection>
         <Testimonial></Testimonial>
-
+        <QuestionsSection></QuestionsSection>
+        <FooterSection></FooterSection>
 
     </>
   )

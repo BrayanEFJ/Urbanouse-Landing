@@ -19,35 +19,35 @@ const Hero = () => {
                 <div className='absolute w-full  -bottom-14 max-w-[1000px] px-3 lg:w-9/12   xl:w-7/12  max-sm:space-y-1'>
                     <div className='bg-white  shadow-xl flex sm:justify-around  sm:items-center w-full flex-wrap  p-3  text-lg lg:rounded-full max-md:rounded-br-[60px]'>
                         <div className='flex flex-col p-2 max-sm:w-1/2'>
-                            <span className='text-gray-400'>Buy/Rent</span>
+                            <span className='text-black/60'>Buy/Rent</span>
                             <div className='flex items-center justify-between'>
                                 <span className='font-medium'>Buy</span>
                                 <ChevronDown className='ml-4' />
                             </div>
                         </div>
                         <div className='flex flex-col p-1 max-sm:w-1/2'>
-                            <span className='text-gray-400'>Location</span>
+                            <span className='text-black/60'>Location</span>
                             <div className='flex items-center justify-between'>
                                 <span className='font-medium'>London</span>
                                 <ChevronDown className='ml-4' />
                             </div>
                         </div>
                         <div className='flex flex-col p-1 max-sm:w-1/2'>
-                            <span className='text-gray-400'>Property Type</span>
+                            <span className='text-black/60'>Property Type</span>
                             <div className='flex items-center justify-between'>
                                 <span className='font-medium'>Family House</span>
                                 <ChevronDown className='ml-4' />
                             </div>
                         </div>
                         <div className='flex flex-col p-1 max-sm:w-1/2'>
-                            <span className='text-gray-400'>Bedrooms</span>
+                            <span className='text-black/60'>Bedrooms</span>
                             <div className='flex items-center justify-between'>
                                 <span className='font-medium'>3 Bedrooms</span>
                                 <ChevronDown className='ml-4' />
                             </div>
                         </div>
                         <div className='flex flex-col p-1  max-sm:w-1/2'>
-                            <span className='text-gray-400'>Budget</span>
+                            <span className='text-black/60'>Budget</span>
                             <div className='flex items-center justify-between'>
                                 <span className='font-medium'>$500.000</span>
                                 <ChevronDown />
